@@ -6,6 +6,10 @@ kept private; this repository contains release information and binary downloads 
 
 ## Download for Windows
 
+**[Download Folio-Setup.exe (0.1.0-preview.1)](https://github.com/Mohammad-Ali-Haider/folio-releases/releases/download/v0.1.0-preview.1/Folio-Setup.exe)**
+
+[Release notes and SHA-256 checksum](https://github.com/Mohammad-Ali-Haider/folio-releases/releases/tag/v0.1.0-preview.1)
+
 Open **[Releases](https://github.com/Mohammad-Ali-Haider/folio-releases/releases)**,
 choose the newest published Windows preview, and download **Folio-Setup.exe** under
 **Assets**. Download **SHA256SUMS.txt** to verify the executable. GitHub's automatic
